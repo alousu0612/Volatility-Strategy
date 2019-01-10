@@ -12,7 +12,9 @@
     + 波動小(進入盤整)、使用選擇權策略(Butterfly, ... etc.)
       (4) 賣出勒式組合
     (波動率：https://wizardforcel.gitbooks.io/python-quant-uqer/content/194.html
-     GARCH模型：https://zhuanlan.zhihu.com/p/21962996)
+     
+     GARCH模型：https://zhuanlan.zhihu.com/p/21962996
+               https://uqer.datayes.com/v3/community/share/57aac592228e5b9b95a88999)
   
   + 目前使用策略  
       + 第一部分：追多頭、空頭趨勢，使用多頭逆轉組合、空頭轉換組合
